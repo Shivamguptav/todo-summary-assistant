@@ -88,3 +88,6 @@ This application can be deployed to Vercel with minimal configuration:
 MIT
 "# todo-summary-assistant" 
 "# todo-summary-assistant" 
+
+![image](https://github.com/user-attachments/assets/c3581dae-625e-45a5-88fe-c64cca05a6b3)
+
